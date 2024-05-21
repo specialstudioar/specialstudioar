@@ -19,7 +19,7 @@
 
 # My Social Media
 
-[Youtube](https://www.youtube.com/@specialstudioar)| [Github](https://github.com/specialstudioar) | [Twitch](https://www.twitch.tv/#)
+[Youtube](https://www.youtube.com/@specialstudioar) | [Github](https://github.com/specialstudioar) | [Twitch](https://www.twitch.tv/#)
 
 ![Special's GitHub stats](https://github-readme-stats.vercel.app/api?username=specialstudioar&show_icons=true&theme=transparent)
 
